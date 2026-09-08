@@ -382,13 +382,26 @@ Fork the repository, make your changes, and open a Pull Request.
 
 ---
 
-## 📜 License
+# 📜 License
 
-This project is open source.
+This project is licensed under the **MIT License**.
 
-See the `LICENSE` file for the terms under which the project is distributed.
+You are free to use, modify, distribute, and build upon the project according to the terms of the license.
 
 ---
+
+# 👨‍💻 Author
+
+Created by **OusHesam**.
+
+GitHub:
+
+**[@OusHesam](https://github.com/OusHesam)**
+
+Project:
+
+**[arduino-parking](https://github.com/OusHesam/arduino-radar)**
+
 
 ## ⭐ Support
 
