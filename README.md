@@ -231,8 +231,8 @@ sudo apt install python3-tk
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/project-radar.git
-cd project-radar
+git clone https://github.com/oushesam/arduino-radar.git
+cd arduino-radar
 ```
 
 ### 2. Upload the Arduino firmware
@@ -400,7 +400,7 @@ GitHub:
 
 Project:
 
-**[arduino-parking](https://github.com/OusHesam/arduino-radar)**
+**[arduino-radar](https://github.com/OusHesam/arduino-radar)**
 
 
 ## ⭐ Support
